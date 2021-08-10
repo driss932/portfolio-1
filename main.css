@@ -1,0 +1,96 @@
+.body{
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+    background: linear-gradient(red(0, 0, 150, 0.5),red(0, 0, 50, 0.788)),url(pic1.jpg);
+    background-size: cover;
+    background-position: left;
+    font-family: sans-serif;
+    background-color:rgba(6, 8, 15, 0.075);
+}
+.contact-title{
+    margin-top: 100px;
+    color:rgb(8, 41, 150) 8) 8);
+    text-transform: uppercase;
+    transition: all 4s ease-in-out; 
+}
+.contact-title h1{
+    font-size: 32px;
+    line-height: 10px; 
+}
+
+.contact-title h2{
+    font-size: 16px;
+}
+.form{
+    margin-top: 50px;
+    transition: 
+}
+
+.img {
+    margin: 200px ;
+}
+
+.flex-container{
+   
+    align-items: stretch;
+
+}
+.flex-item {
+    width: 500px;
+    margin: 20px;
+    border: 3px solid rgba(3, 12, 6, 0.63);
+    background-color:coral(12, 12, 19);
+    align-items: stretch;
+    text-align: center;
+}
+
+.flex-item-1 {
+    min-height: 500px;
+}
+
+.square{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+.square:hover{
+    border-radius: 50%;
+}
+.square{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    transition: border-radius 2s;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
